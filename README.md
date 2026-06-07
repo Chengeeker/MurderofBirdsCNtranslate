@@ -1,0 +1,2 @@
+# MurderofBirdsCNtranslate
+在观看屠鸟哥YouTube原神视频时，使用沉浸式翻译可设置的AI专家和术语库
