@@ -5,4 +5,4 @@
 
 #### [Genshin_glossary.csv](https://github.com/Chengeeker/MurderofBirdsCNtranslate/blob/main/MurderofBirds_glossary.csv) 是原神中英词典导入进AI术语库即可
 
-#### [MurderofBirds_glossary.csv](https://github.com/Chengeeker/MurderofBirdsCNtranslate)是我根据屠鸟哥YouTube视频里字幕的识别习惯专门适配的翻译导入进AI术语库即可
+#### [MurderofBirds_glossary.csv]([https://github.com/Chengeeker/MurderofBirdsCNtranslate](https://github.com/Chengeeker/MurderofBirdsCNtranslate/blob/main/MurderofBirds_glossary.csv))是我根据屠鸟哥YouTube视频里字幕的识别习惯专门适配的翻译导入进AI术语库即可
